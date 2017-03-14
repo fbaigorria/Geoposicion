@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>GeoPrueba</name>
+	<name>Geoprueba</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -26,7 +26,15 @@
 		<link>
 			<name>.link_to_grails_plugins</name>
 			<type>2</type>
+<<<<<<< HEAD
 			<location>/Users/ygaliano/Documents/workspace-ggts-3.6.4.RELEASE/GeoPrueba/target/work/plugins</location>
+=======
+<<<<<<< HEAD
+			<location>/Users/hmalatini/Documents/workspace-ggts-3.6.4.RELEASE/GeoPrueba/target/work/plugins</location>
+=======
+			<location>/Users/jcoutinho/Documents/workspace-ggts-3.6.4.RELEASE/Geoprueba/target/work/plugins</location>
+>>>>>>> 5bc1d8829709f289efbec6a6a9947d6a399245db
+>>>>>>> 989df49678b213f584a421ee44283f4983b96182
 		</link>
 	</linkedResources>
 </projectDescription>
