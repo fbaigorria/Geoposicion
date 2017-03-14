@@ -8,5 +8,7 @@ class GeoposicionController {
 		println "Por lo que se ve, este controller no hace un carajo"
 		println "Facu sos un garca, no hiciste nada"
 		println ("modificacion de facu");
+	 	def msg = "dejen de hacer cagada"
+		println (msg);
 	}
 }
