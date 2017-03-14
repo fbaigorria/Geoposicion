@@ -5,6 +5,6 @@ class GeoposicionController {
     def index() { }
 	
 	def getGeoposicion() {
-		println ("modificacion de cou zarpada");
+		println ("modificacion de cou zarpada2");
 	}
 }
