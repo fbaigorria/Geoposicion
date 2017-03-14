@@ -5,6 +5,6 @@ class GeoposicionController {
     def index() { }
 	
 	def getGeoposicion() {
-		
+		println "hola"
 	}
 }
