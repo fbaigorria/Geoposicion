@@ -26,7 +26,11 @@
 		<link>
 			<name>.link_to_grails_plugins</name>
 			<type>2</type>
+<<<<<<< HEAD
 			<location>/Users/ulesta/Documents/workspace-ggts-3.6.4.RELEASE/GeoPrueba/target/work/plugins</location>
+=======
+			<location>/Users/hmalatini/Documents/workspace-ggts-3.6.4.RELEASE/GeoPrueba/target/work/plugins</location>
+>>>>>>> 9edc108dd8021c574c5e82e5ca3b4be6fc1e5f7d
 		</link>
 	</linkedResources>
 </projectDescription>
